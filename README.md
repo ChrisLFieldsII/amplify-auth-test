@@ -17,6 +17,7 @@ Example repo for an issue within the AWS Amplify library, specifically `aws-ampl
 
 The video shows Signing in using the `withAuthenticator` HOC and Signing out with a custom button and `Auth.signOut()`.
 After clicking the Logout button the User still sees the screens as if they are signed in.
+On an app reload, it is detected that the User has been logged out finally.
 
 [Click here for Video](https://drive.google.com/file/d/1-CUNuEOtsuKdPhyNOnGkidy9QZ-UB1-q/view?usp=sharing)
 
